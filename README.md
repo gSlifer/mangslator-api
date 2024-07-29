@@ -4,7 +4,7 @@ Una aplicación creada por :
 
 - Stevens Egli @Stevennns
 - Jesús Cáceres @JexexJZkrall
-- Nicolás Cáceres @
+- Nicolás Cáceres @gSlifer
 - Manuel Molina @ManuelMolinaH
 - Carlo Merino @EstudianteGenerico047
 
